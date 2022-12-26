@@ -1,0 +1,5 @@
+object:NikeShoes,margin:2,exp:30
+object:LogitechMouse,margin:1,exp:5
+object:LgGram,margin:2,exp:15
+object:Ipad,margin:2,exp:25
+object:GalaxyS22,margin:6,exp:45

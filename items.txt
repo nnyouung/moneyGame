@@ -1,0 +1,10 @@
+name:IPhone11,initPrice:9000
+name:Ipad,initPrice:9000
+name:NikeShoes,initPrice:7000
+name:AppleWatch,initPrice:8000
+name:Egg,initPrice:9450
+name:LgGram,initPrice:12000
+name:GalaxyS22,initPrice:9000
+name:Apple,initPrice:8500
+name:IPhone11ProMax,initPrice:10300
+name:LogitechMouse,initPrice:7000
