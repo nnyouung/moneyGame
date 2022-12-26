@@ -30,8 +30,8 @@
 - buyprice.txt : 구매 가격을 저장합니다. 초기에는 아무 내용도 없어야 합니다.
 - buypriceTmp.txt : 가장 최근의 구매 가격 하나만 저장합니다. 초기에는 아무 내용도 없어야 합니다.
 - items.txt : 초기 아이템들 목록입니다. 초기 내용은 다음과 같아야 합니다.
-  name:IPhone11,initPrice:9000
-  name:Ipad,initPrice:9000
+> name:IPhone11,initPrice:9000  
+> name:Ipad,initPrice:9000  
   name:NikeShoes,initPrice:7000
   name:AppleWatch,initPrice:8000
   name:LogitechMouse,initPrice:7000
