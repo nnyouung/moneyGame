@@ -32,14 +32,14 @@
 - items.txt : 초기 아이템들 목록입니다. 초기 내용은 다음과 같아야 합니다.
 > name:IPhone11,initPrice:9000  
 > name:Ipad,initPrice:9000  
-  name:NikeShoes,initPrice:7000
-  name:AppleWatch,initPrice:8000
-  name:LogitechMouse,initPrice:7000
-  name:Egg,initPrice:9450
-  name:IPhone11ProMax,initPrice:10300
-  name:LgGram,initPrice:12000
-  name:Apple,initPrice:8500
-  name:GalaxyS22,initPrice:9000
+> name:NikeShoes,initPrice:7000  
+> name:AppleWatch,initPrice:8000  
+> name:LogitechMouse,initPrice:7000  
+> name:Egg,initPrice:9450  
+> name:IPhone11ProMax,initPrice:10300  
+> name:LgGram,initPrice:12000  
+> name:Apple,initPrice:8500  
+> name:GalaxyS22,initPrice:9000  
 - myItems.txt : 구매한 아이템들의 목록이 들어갑니다. 초기에는 아무 내용도 없어야 합니다.
 - missions2.txt : 미션 목록이 들어갑니다. 여기서 랜덤으로 미션을 가져와 게임을 실행하는 것입니다.
 - money : 가지고 있는 금액의 정보를 담고 있습니다. 초기값은 20000 입니다.
