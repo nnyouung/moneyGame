@@ -14,7 +14,7 @@
 ### ▶︎ 설명
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/104901660/209536318-ea482c9c-8d32-4790-8f5e-fb3f184c70eb.png">
 <img width="1440" alt="2" src="https://user-images.githubusercontent.com/104901660/209536323-0c6d8b9e-0848-4866-971b-f465b98667df.png">
-<img width="1440" alt="3" src="https://user-images.githubusercontent.com/104901660/209536330-204d3c40-7bad-48f9-bbe5-9cd1d46b6955.png">
+<img width="1440" alt="3" src="https://user-images.githubusercontent.com/104901660/209616030-0ff9624d-cba0-4009-ac5a-b5147507fa3c.png">
 
 - - -
 
