@@ -19,6 +19,7 @@
 - - -
 
 ### ▶︎ 게임 실행 동영상
+https://user-images.githubusercontent.com/104901660/209615446-a2aa4697-2b4f-4397-8244-7204a83020c9.mov
 
 - - -
 
@@ -46,3 +47,8 @@
 - experience.txt : 가지고 있는 경험치의 정보를 담고 있습니다. 초기값은 0 입니다.
 - bgm.mp3 : 게임 음악 파일입니다.
 - 1.jpg / 2.jpg / 3.jpg : 프로필 이미지 파일입니다.
+
+- - -
+
+### ▶︎ 개선점
+한 게임이 끝나고 메인 창으로 돌아간 후, 다시 게임을 재실행할 때 오류가 생기며 프로그램이 꺼짐. (NameError: name 'AdSecond' is not defined)
